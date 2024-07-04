@@ -178,7 +178,7 @@ You can see some output samples manually analyzed in `dcot_samples.json`
 
 ## Cite
 
-If you find our work useful, please it using the following citation:
+If you find our work useful, please consider citing it using the following citation:
 
 ```
 @misc{puerto2024dcot,
