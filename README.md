@@ -181,16 +181,14 @@ You can see some output samples manually analyzed in `dcot_samples.json`
 If you find our work useful, please it using the following citation:
 
 ```
-@InProceedings{smith:20xx:CONFERENCE_TITLE,
-  author    = {Smith, John},
-  title     = {My Paper Title},
-  booktitle = {Proceedings of the 20XX Conference on XXXX},
-  month     = mmm,
-  year      = {20xx},
-  address   = {Gotham City, USA},
-  publisher = {Association for XXX},
-  pages     = {XXXX--XXXX},
-  url       = {http://xxxx.xxx}
+@misc{puerto2024dcot,
+      title={Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models}, 
+      author={Haritz Puerto and Tilek Chubakov and Xiaodan Zhu and Harish Tayyar Madabushi and Iryna Gurevych},
+      year={2024},
+      eprint={2407.03181},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.03181}, 
 }
 ```
 
